@@ -23,27 +23,21 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🔓 Open-Source Software
 
-### Core Engines & Leading Tools
-- **[axe-core](https://github.com/dequelabs/axe-core)** — The most widely used open-source accessibility testing engine (Mozilla Public License). Powers Deque’s commercial tools as well as many free and open-source projects. Highly accurate with low false positives; supports WCAG 2.0–2.2 and best practices.
-- **[Pa11y](https://github.com/pa11y/pa11y)** — Popular open-source command-line tool for automated accessibility testing. Can use axe-core or HTML CodeSniffer as the underlying engine. Excellent for CI/CD pipelines.
-- **[Lighthouse](https://github.com/GoogleChrome/lighthouse)** — Google’s open-source auditing tool (built into Chrome DevTools). Includes a solid accessibility audit alongside performance, SEO, and best practices. Fully scriptable via Lighthouse CI.
-- **[Accessibility Insights](https://accessibilityinsights.io/)** (Microsoft) — Free and open-source tools (browser extension + Windows app) for automated checks and guided manual testing. Built on axe-core.
-- **[HTML_CodeSniffer](https://github.com/squizlabs/HTML_CodeSniffer)** — Open-source JavaScript library that checks HTML for accessibility issues against WCAG standards. Can be used as a bookmarklet or integrated into other tools.
+### 🌟 Open-Source Repositories (Sorted by GitHub Stars)
+- **[Lighthouse](https://github.com/GoogleChrome/lighthouse)** [![GitHub stars](https://img.shields.io/github/stars/GoogleChrome/lighthouse?style=social&color=white)](https://github.com/GoogleChrome/lighthouse/stargazers) — Google’s open-source auditing tool (built into Chrome DevTools). Includes a solid accessibility audit alongside performance, SEO, and best practices. Fully scriptable via Lighthouse CI.
+- **[axe-core](https://github.com/dequelabs/axe-core)** [![GitHub stars](https://img.shields.io/github/stars/dequelabs/axe-core?style=social&color=white)](https://github.com/dequelabs/axe-core/stargazers) — The most widely used open-source accessibility testing engine (Mozilla Public License). Powers Deque’s commercial tools as well as many free and open-source projects. Highly accurate with low false positives; supports WCAG 2.0–2.2 and best practices.
+- **[Pa11y](https://github.com/pa11y/pa11y)** [![GitHub stars](https://img.shields.io/github/stars/pa11y/pa11y?style=social&color=white)](https://github.com/pa11y/pa11y/stargazers) — Popular open-source command-line tool for automated accessibility testing. Can use axe-core or HTML CodeSniffer as the underlying engine. Excellent for CI/CD pipelines.
+- **[HTML_CodeSniffer](https://github.com/squizlabs/HTML_CodeSniffer)** [![GitHub stars](https://img.shields.io/github/stars/squizlabs/HTML_CodeSniffer?style=social&color=white)](https://github.com/squizlabs/HTML_CodeSniffer/stargazers) — Open-source JavaScript library that checks HTML for accessibility issues against WCAG standards. Can be used as a bookmarklet or integrated into other tools.
+- **[Accessibility Insights](https://accessibilityinsights.io/)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/accessibility-insights-web?style=social&color=white)](https://github.com/microsoft/accessibility-insights-web/stargazers) (Microsoft) — Free and open-source tools (browser extension + Windows app) for automated checks and guided manual testing. Built on axe-core.
+- **[IBM Equal Access Accessibility Checker](https://github.com/IBMAccessibility/equal-access)** [![GitHub stars](https://img.shields.io/github/stars/IBMAccessibility/equal-access?style=social&color=white)](https://github.com/IBMAccessibility/equal-access/stargazers) — Open-source browser extension and Node.js package for accessibility testing.
+- **[Guidepup](https://github.com/guidepup/guidepup)** [![GitHub stars](https://img.shields.io/github/stars/guidepup/guidepup?style=social&color=white)](https://github.com/guidepup/guidepup/stargazers) — Open-source library for automating screen reader testing (VoiceOver, NVDA) with Playwright and other tools.
+- **[AccessLint](https://github.com/accesslint)** [![GitHub stars](https://img.shields.io/github/stars/accesslint/accesslint?style=social&color=white)](https://github.com/accesslint/accesslint/stargazers) — GitHub App and related tools that comment on pull requests with accessibility issues.
 
-### Browser Extensions & Developer Tools
+### 🛠️ Framework Integrations & Other Free Tools
 - **WAVE** (WebAIM) — Widely used free browser extension for visual accessibility evaluation (not fully open-source, but free and highly trusted).
-- **IBM Equal Access Accessibility Checker** — Open-source browser extension and Node.js package for accessibility testing.
-- Various community extensions and bookmarklets built on axe-core or HTML_CodeSniffer.
-
-### CI/CD & Automation Focused
-- **[AccessLint](https://github.com/accesslint)** — GitHub App and related tools that comment on pull requests with accessibility issues.
 - **cypress-axe**, **jest-axe**, **vitest-axe**, and similar integrations — Open-source packages that bring axe-core into popular testing frameworks.
-- **[Guidepup](https://github.com/guidepup/guidepup)** — Open-source library for automating screen reader testing (VoiceOver, NVDA) with Playwright and other tools.
+- Various community extensions and bookmarklets built on axe-core or HTML_CodeSniffer.
 - Emerging full-site scanners and audit platforms (e.g., community WCAG crawlers and projects like Look-see) that combine crawling with axe-core or similar engines.
-
-### Supporting Libraries & Utilities
-- Color contrast checkers, focus management utilities, and ARIA validation libraries available across the open-source ecosystem.
-- Screen reader testing helpers and virtual screen reader projects for automated verification.
 
 ### Typical Open-Source Stack
 1. **Automated scanning** — axe-core (via browser extension, Pa11y, or testing framework integrations)
