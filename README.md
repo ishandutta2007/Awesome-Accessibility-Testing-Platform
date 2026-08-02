@@ -4,6 +4,31 @@
   <img src="assets/banner.svg" alt="Awesome Accessibility Testing Platform Banner" width="100%" />
 </div>
 
+---
+
+## 🔍 Overview of Digital Accessibility Testing Platforms
+
+**Awesome Accessibility Testing Platforms & Web Accessibility Tools** is a curated list of top-tier software designed to help developers, QA engineers, and compliance teams audit websites, mobile apps, and digital products for accessibility standards. 
+
+Using these tools ensures compliance with:
+- **WCAG 2.0 / 2.1 / 2.2** (Web Content Accessibility Guidelines)
+- **ADA** (Americans with Disabilities Act)
+- **Section 508** (US Federal Rehabilitation Act)
+- **EN 301 549** (European Standard for ICT products)
+
+They combine automated scanning engines, guided manual auditing workflows, compliance reporting dashboards, and real-time AI remediation. Below is a comprehensive, sorted index comparing the best commercial SaaS platforms and their open-source alternatives.
+
+---
+
+## 📌 Table of Contents
+1. [SaaS & Hosted Platforms (Sorted by Company Size)](#-saas--hosted-platforms)
+2. [Open-Source Repositories (Sorted by GitHub Stars)](#-open-source-software)
+3. [Framework Integrations & Other Free Tools](#%EF%B8%8F-framework-integrations--other-free-tools)
+4. [Typical Open-Source Stack](#%EF%B8%8F-typical-open-source-stack)
+5. [Frequently Asked Questions (FAQ)](#%EF%B8%8F-faq)
+
+---
+
 ## 👥 Similar Projects to Accessibility Testing Platforms
 
 **Accessibility Testing Platforms** help organizations audit websites and applications for compliance with WCAG, ADA, Section 508, EN 301 549, and other accessibility standards. They combine automated scanning, guided manual testing, reporting, and sometimes remediation. Leading commercial tools include Deque axe DevTools, Level Access, Siteimprove Accessibility, AudioEye, EqualWeb, UserWay, Silktide, accessiBe, Pope Tech, and Tenon.
@@ -50,6 +75,19 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 4. 🎧 **Screen reader validation** — Guidepup or manual testing with NVDA/Orca/VoiceOver
 
 This combination covers the majority of automated accessibility issues and integrates cleanly into modern development workflows, while commercial platforms typically add enterprise reporting, continuous monitoring, and managed remediation.
+
+---
+
+## ❓ FAQ
+
+### What are the best web accessibility testing platforms?
+Leading commercial platforms include **Deque axe DevTools**, **Level Access**, and **Siteimprove Accessibility**. For open-source options, **Lighthouse**, **axe-core**, and **Pa11y** are the industry standards.
+
+### How do automated accessibility checkers work?
+Automated tools scan the DOM/HTML structure against predefined rulesets (like axe-core) to flag common issues such as missing alt text, poor color contrast, and invalid ARIA attributes. However, manual testing remains essential to catch all compliance violations.
+
+### What standards do these accessibility checkers cover?
+Most platforms validate against **WCAG 2.1/2.2 AA** guidelines, which also aligns with compliance requirements for **ADA**, **Section 508**, and Europe's **EN 301 549**.
 
 ---
 
