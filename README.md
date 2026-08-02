@@ -4,7 +4,7 @@
   <img src="assets/banner.svg" alt="Awesome Accessibility Testing Platform Banner" width="100%" />
 </div>
 
-## Similar Projects to Accessibility Testing Platforms
+## 👥 Similar Projects to Accessibility Testing Platforms
 
 **Accessibility Testing Platforms** help organizations audit websites and applications for compliance with WCAG, ADA, Section 508, EN 301 549, and other accessibility standards. They combine automated scanning, guided manual testing, reporting, and sometimes remediation. Leading commercial tools include Deque axe DevTools, Level Access, Siteimprove Accessibility, AudioEye, EqualWeb, UserWay, Silktide, accessiBe, Pope Tech, and Tenon.
 
@@ -43,21 +43,21 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 - Various community extensions and bookmarklets built on axe-core or HTML_CodeSniffer.
 - Emerging full-site scanners and audit platforms (e.g., community WCAG crawlers and projects like Look-see) that combine crawling with axe-core or similar engines.
 
-### Typical Open-Source Stack
-1. **Automated scanning** — axe-core (via browser extension, Pa11y, or testing framework integrations)
-2. **CI/CD gates** — Pa11y, Lighthouse CI, or jest-axe / cypress-axe
-3. **Guided manual testing** — Accessibility Insights or WAVE
-4. **Screen reader validation** — Guidepup or manual testing with NVDA/Orca/VoiceOver
+### 🛠️ Typical Open-Source Stack
+1. 🤖 **Automated scanning** — axe-core (via browser extension, Pa11y, or testing framework integrations)
+2. 🚀 **CI/CD gates** — Pa11y, Lighthouse CI, or jest-axe / cypress-axe
+3. 🔍 **Guided manual testing** — Accessibility Insights or WAVE
+4. 🎧 **Screen reader validation** — Guidepup or manual testing with NVDA/Orca/VoiceOver
 
 This combination covers the majority of automated accessibility issues and integrates cleanly into modern development workflows, while commercial platforms typically add enterprise reporting, continuous monitoring, and managed remediation.
 
 ---
 
-**How to contribute**  
+**🤝 How to contribute**  
 Fork this repository, add a new project (with link + short description + category), and open a pull request.  
 Prefer actively maintained open-source projects related to accessibility testing, WCAG auditing, or assistive technology automation.
 
-**License**  
+**📄 License**  
 This list is public domain / CC0. Feel free to copy into your own awesome list or README.
 
 Star the projects you find useful — open-source accessibility tooling makes the web more inclusive for everyone! ♿
