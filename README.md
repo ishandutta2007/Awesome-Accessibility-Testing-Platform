@@ -1,5 +1,9 @@
 # Awesome-Accessibility-Testing-Platform
 
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Accessibility Testing Platform Banner" width="100%" />
+</div>
+
 ## Similar Projects to Accessibility Testing Platforms
 
 **Accessibility Testing Platforms** help organizations audit websites and applications for compliance with WCAG, ADA, Section 508, EN 301 549, and other accessibility standards. They combine automated scanning, guided manual testing, reporting, and sometimes remediation. Leading commercial tools include Deque axe DevTools, Level Access, Siteimprove Accessibility, AudioEye, EqualWeb, UserWay, Silktide, accessiBe, Pope Tech, and Tenon.
