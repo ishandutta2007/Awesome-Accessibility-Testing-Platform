@@ -8,16 +8,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[Deque axe DevTools](https://www.deque.com/axe/)** — Industry-leading accessibility testing suite (browser extension, CI/CD, and enterprise monitoring) powered by the axe-core engine.
-- **[Level Access](https://www.levelaccess.com/)** — Enterprise accessibility platform offering testing, monitoring, and compliance management.
-- **[Siteimprove Accessibility](https://www.siteimprove.com/)** — Part of a broader digital governance suite that includes accessibility scanning, reporting, and prioritization.
-- **[AudioEye](https://www.audioeye.com/)** — Accessibility platform combining automated testing with managed remediation services.
-- **[EqualWeb](https://www.equalweb.com/)** — AI-powered accessibility solution with scanning and remediation features.
-- **[UserWay](https://userway.org/)** — Accessibility widget and testing platform focused on automated fixes and compliance.
-- **[Silktide](https://silktide.com/)** — Digital accessibility and quality assurance platform with website scanning.
-- **[accessiBe](https://accessibe.com/)** — AI-driven accessibility solution offering automated remediation and monitoring.
-- **[Pope Tech](https://pope.tech/)** — Accessibility testing and monitoring platform, often used in higher education.
-- **[Tenon](https://tenon.io/)** — API-first accessibility testing service for developers and enterprises.
+| Platform | Description | Pricing | Free Tier / Limits |
+| :--- | :--- | :--- | :--- |
+| **[Deque axe DevTools](https://www.deque.com/axe/)** | Industry-leading accessibility testing suite (browser extension, CI/CD, and enterprise monitoring) powered by the axe-core engine. | Paid plans (Pro) start at ~$60/user/month; custom enterprise quotes available. | **Yes** (Free browser extension for page-by-page automated testing; no intelligent guided tests or workflow integrations). |
+| **[Level Access](https://www.levelaccess.com/)** | Enterprise accessibility platform offering testing, monitoring, and compliance management. | Custom enterprise quotes (typically $25,000 to $150,000+/year). | **No** (14-day trials or custom demos available). |
+| **[Siteimprove Accessibility](https://www.siteimprove.com/)** | Part of a broader digital governance suite that includes accessibility scanning, reporting, and prioritization. | Custom enterprise quotes. | **No** |
+| **[AudioEye](https://www.audioeye.com/)** | Accessibility platform combining automated testing with managed remediation services. | Paid plans start at ~$49/month; custom enterprise quotes available. | **No** (Offers free one-time website scan diagnostics and a 14-day free trial). |
+| **[EqualWeb](https://www.equalweb.com/)** | AI-powered accessibility solution with scanning and remediation features. | Paid automated AI plans start at ~$39/month; custom enterprise quotes available. | **Yes** (Free accessibility widget with basic adjustment tools and free accessibility checker tool/Chrome extension). |
+| **[UserWay](https://userway.org/)** | Accessibility widget and testing platform focused on automated fixes and compliance. | Paid plans start at $490/year (approx. $49/month); custom enterprise quotes available. | **Yes** (Free basic widget for manual, user-triggered accessibility adjustments). |
+| **[Silktide](https://silktide.com/)** | Digital accessibility and quality assurance platform with website scanning. | Custom quote-based pricing. | **No** (Offers free browser extension for page audits and a free 25-page sample scan). |
+| **[accessiBe](https://accessibe.com/)** | AI-driven accessibility solution offering automated remediation and monitoring. | Paid plans start at ~$49/month (or $490/year) for Micro tier; custom enterprise quotes available. | **No** (Offers free website scan diagnostics and a 7-day free trial). |
+| **[Pope Tech](https://pope.tech/)** | Accessibility testing and monitoring platform, often used in higher education. | Paid plans start at $25/month (for a 50-page tier, billed annually). | **Yes** (Free forever plan for scanning up to 25 pages, 1 website, 2 users). |
+| **[Tenon](https://tenon.io/)** | API-first accessibility testing service for developers and enterprises. | *Discontinued* (Acquired by Level Access in 2021; service retired in August 2023). | *Discontinued* (Service retired). |
 
 ## 🔓 Open-Source Software
 
