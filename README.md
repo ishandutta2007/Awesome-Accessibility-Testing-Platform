@@ -69,6 +69,7 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 ### 🛠️ Framework Integrations & Other Free Tools
 - **WAVE** (WebAIM) — Widely used free browser extension for visual accessibility evaluation (not fully open-source, but free and highly trusted).
 - **cypress-axe**, **jest-axe**, **vitest-axe**, and similar integrations — Open-source packages that bring axe-core into popular testing frameworks.
+- **[agent-qa](https://vostride.com)** — AI-powered web QA with axe-core accessibility checks through Playwright, persistent memidex memory, validated self-improvement, and recorded run evidence (FSL-1.1-ALv2; model costs may apply).
 - Various community extensions and bookmarklets built on axe-core or HTML_CodeSniffer.
 - Emerging full-site scanners and audit platforms (e.g., community WCAG crawlers and projects like Look-see) that combine crawling with axe-core or similar engines.
 
